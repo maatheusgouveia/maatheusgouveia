@@ -1,5 +1,7 @@
 ## Meu nome é Matheus Gouveia, sou desenvolvedor Javascript Fullstack, tenho 22 anos e moro em Avaré-SP 👋
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-gouveia-a5436b113/)](https://www.linkedin.com/in/matheus-gouveia-a5436b113/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/lgdbittencourt)](https://twitter.com/matheeusgouveia)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/maatheusgouveia/)](https://www.instagram.com/maatheusgouveia/)
 
 ### 💬 O que eu faço:
 
