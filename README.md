@@ -5,7 +5,7 @@
 
 ### 💬 O que eu faço:
 
-Sou desenvolvedor Javascript FullStack Pleno na Cadmus Soluções em T.I onde desenvolvo aplicações web e mobile.
+Sou desenvolvedor Javascript FullStack na Cadmus Soluções em T.I onde desenvolvo aplicações web e mobile.
 
 Desde 2016 contribuo com o desenvolvimento do projeto Mostra Preço, uma plataforma para comparação de preços em diversos segmentos.
 
