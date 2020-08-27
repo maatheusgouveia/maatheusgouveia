@@ -19,4 +19,4 @@ Me interesso também pela linguagem Python, costumo fazer pequenos projetos apen
 
 
 ### ❓ Curiosidade:
-Programei em PHP durante dois anos, foi minha primeira linguagem de programação, por isso ela tem um legar especial no meu 💗.
+Programei em PHP durante dois anos, foi minha primeira linguagem de programação, por isso ela tem um lugar especial no meu 💗.
