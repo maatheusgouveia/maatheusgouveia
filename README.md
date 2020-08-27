@@ -5,7 +5,7 @@
 
 ### 💬 O que eu faço:
 
-Sou desenvolvedor Javascript FullStack na Cadmus Soluções em T.I onde desenvolvo aplicações web e mobile.
+Sou desenvolvedor Javascript FullStack na Cadmus Soluções em T.I onde desenvolvo aplicações web.
 
 Desde 2016 contribuo com o desenvolvimento do projeto Mostra Preço, uma plataforma para comparação de preços em diversos segmentos.
 
@@ -14,3 +14,9 @@ Tenho um blog chamado [Update sem Where](https://updatesemwhere.com.br/) onde fa
 ### 🔭 O que estou estudando:
 
 Atualmente o meu foco é no desenvolvimento Web com Javascript e ReactJS, mas também me interesso em aplicar essa linguagem maravilhosa em projetos de todos os tipos utilizando Electron, Node.JS, React Native e Typescript.
+
+Me interesso também pela linguagem Python, costumo fazer pequenos projetos apenas para fins de estudo.
+
+
+### ❓ Curiosidade:
+Programei em PHP durante dois anos, foi minha primeira linguagem de programação, por isso ela tem um legar especial no meu 💗.
