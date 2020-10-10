@@ -30,6 +30,7 @@ Programei em PHP durante dois anos, foi minha primeira linguagem de programaçã
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" alt="Node.js" height="30"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/1200px-MongoDB_Logo.svg.png" alt="MongoDB" height="30"/>
   <img src="https://cdn.worldvectorlogo.com/logos/mysql.svg" alt="MySQL" height="30"/>
+  <img src="https://i0.wp.com/www.computersnyou.com/wp-content/uploads/2014/12/postgresql-logo.png?fit=610%2C280&ssl=1" alt="Postgres" height="30"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" alt="Linux" width="30" height="30"/>
   <img src="https://pngimg.com/uploads/php/php_PNG12.png" alt="PHP" height="30"/>
 </p>
