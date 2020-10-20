@@ -9,7 +9,7 @@ Sou desenvolvedor Javascript FullStack na Cadmus Soluções em T.I onde desenvol
 
 Desde 2016 contribuo com o desenvolvimento do projeto Mostra Preço, uma plataforma para comparação de preços em diversos segmentos.
 
-Tenho um blog chamado [Update sem Where](https://updatesemwhere.com.br/) onde falo sobre carreira e tecnologia.
+Tenho um blog chamado <a href="https://updatesemwhere.com.br/" target="_blank">Update sem Where</a> onde falo sobre carreira e tecnologia.
 
 ### 🔭 O que estou estudando:
 
