@@ -5,7 +5,7 @@
 
 ### 💬 O que eu faço:
 
-Sou desenvolvedor Javascript FullStack na Cadmus Soluções em T.I onde desenvolvo aplicações web.
+Sou um nômade digital e trabalho como Full Stack Analyst na BeerOrCoffee.
 
 Desde 2016 contribuo com o desenvolvimento do projeto Mostra Preço, uma plataforma para comparação de preços em diversos segmentos.
 
@@ -29,8 +29,8 @@ Programei em PHP durante dois anos, foi minha primeira linguagem de programaçã
   <img src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo-1.png" alt="HTML5" height="30"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" alt="Node.js" height="30"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/1200px-MongoDB_Logo.svg.png" alt="MongoDB" height="30"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/mysql.svg" alt="MySQL" height="30"/>
-  <img src="https://i0.wp.com/www.computersnyou.com/wp-content/uploads/2014/12/postgresql-logo.png?fit=610%2C280&ssl=1" alt="Postgres" height="30"/>
+  <img src="https://img2.gratispng.com/20180803/abq/kisspng-mysql-cluster-database-management-system-专-题-咖-啡-与-代-码-5b640d8b2a2e53.6067051415332837231728.jpg" alt="MySQL" height="30"/>
+  <img src="https://img2.gratispng.com/20180804/usa/kisspng-postgresql-object-relational-database-oracle-datab-portfolio-whitebolt-whitebolt-5b65f821676510.3259571015334093134235.jpg" alt="Postgres" height="30"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" alt="Linux" width="30" height="30"/>
   <img src="https://pngimg.com/uploads/php/php_PNG12.png" alt="PHP" height="30"/>
 </p>
