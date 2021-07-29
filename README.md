@@ -3,6 +3,12 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/lgdbittencourt)](https://twitter.com/matheeusgouveia)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/maatheusgouveia/)](https://www.instagram.com/maatheusgouveia/)
 
+<div>
+  <a href="https://github.com/maatheusgouveia">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maatheusgouveia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maatheusgouveia&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
 ### 💬 O que eu faço:
 
 Sou um nômade digital e trabalho como Full Stack Analyst na BeerOrCoffee.
@@ -34,3 +40,5 @@ Programei em PHP durante dois anos, foi minha primeira linguagem de programaçã
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" alt="Linux" width="30" height="30"/>
   <img src="https://pngimg.com/uploads/php/php_PNG12.png" alt="PHP" height="30"/>
 </p>
+  
+![Snake animation](https://github.com/maatheusgouveia/maatheusgouveia/blob/output/github-contribution-grid-snake.svg)
