@@ -18,6 +18,8 @@ Contribui por aproximadamente 4 anos com o desenvolvimento do projeto Mostra Pre
 
 Tenho um blog chamado <a href="https://updatesemwhere.com.br/" target="_blank">Update sem Where</a> onde falo sobre carreira e tecnologia.
 
+Também tenho trabalhado no meu mais recente projeto pessoal, o <a href="https://www.webdevtools.tech" target="_blank">Web Dev Tools</a> que é uma plataforma onde estou desenvolvendo pequenas ferramentas para ajudar nas tarefas diárias dos devs.
+
 ### 🔭 O que estou estudando:
 
 Atualmente o meu foco é no desenvolvimento Web com Javascript e ReactJS, mas também me interesso em aplicar essa linguagem maravilhosa em projetos de todos os tipos utilizando Electron, Node.JS, React Native e Typescript.
