@@ -12,7 +12,7 @@
 
 ### 💬 O que eu faço:
 
-Sou um nômade digital e trabalho como Full Stack Analyst na BeerOrCoffee.
+Programador desde 2016.
 
 Contribui por aproximadamente 4 anos com o desenvolvimento do projeto Mostra Preço, uma plataforma para comparação de preços em diversos segmentos.
 
