@@ -53,7 +53,7 @@ jobs:
             age=$((age - 1))
           fi
           echo "age=$age" >> $GITHUB_OUTPUT
-          sed -i "s/{{AGE}}/$age/g" README.md
+          sed -i "s/ · [0-9]* anos ·/ · $age anos ·/g" README.md
 
       - name: Commit e push se a idade mudou
         run: |

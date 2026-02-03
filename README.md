@@ -2,7 +2,7 @@
 
 # 👋 Olá, eu sou o Matheus Gouveia
 
-**Desenvolvedor JavaScript Fullstack** · {{AGE}} anos · Avaré-SP
+**Desenvolvedor JavaScript Fullstack** · 28 anos · Avaré-SP
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maatheusgouveia/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/matheeusgouveia)
@@ -67,6 +67,6 @@ Programei em **PHP** durante dois anos — foi minha primeira linguagem, então 
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/maatheusgouveia/maatheusgouveia/output/dist/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/maatheusgouveia/maatheusgouveia/output/github-contribution-grid-snake.svg)
 
 </div>
