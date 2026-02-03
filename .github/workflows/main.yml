@@ -1,9 +1,15 @@
 name: Generate Datas
 
 on:
+  push:
+    branches: [master, main]
   schedule: # execute every 12 hours
     - cron: "* */12 * * *"
   workflow_dispatch:
+
+env:
+  # Edite com sua data de nascimento (YYYY-MM-DD) para a idade ser calculada automaticamente
+  BIRTH_DATE: "1998-01-05"
 
 jobs:
   build:
@@ -23,3 +29,34 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+  update-readme-age:
+    name: Atualizar idade no README
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Calcular idade e atualizar README
+        id: age
+        run: |
+          BIRTH_DATE="${{ env.BIRTH_DATE }}"
+          by=$(echo $BIRTH_DATE | cut -d'-' -f1)
+          bm=$(echo $BIRTH_DATE | cut -d'-' -f2)
+          bd=$(echo $BIRTH_DATE | cut -d'-' -f3)
+          cy=$(date +%Y)
+          cm=$(date +%m)
+          cd=$(date +%d)
+          age=$((cy - by))
+          if [ "$cm" -lt "$bm" ] || ([ "$cm" -eq "$bm" ] && [ "$cd" -lt "$bd" ]); then
+            age=$((age - 1))
+          fi
+          echo "age=$age" >> $GITHUB_OUTPUT
+          sed -i "s/{{AGE}}/$age/g" README.md
+
+      - name: Commit e push se a idade mudou
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git diff --quiet README.md || (git add README.md && git commit -m "chore: atualiza idade no README (${{ steps.age.outputs.age }} anos)" && git push)
