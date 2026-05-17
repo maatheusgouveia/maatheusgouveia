@@ -4,8 +4,12 @@
 
 **Desenvolvedor Fullstack Sênior** · 28 anos · Avaré-SP
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maatheusgouveia/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/maatheusgouveia/)
+<a href="https://www.linkedin.com/in/maatheusgouveia/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://www.instagram.com/maatheusgouveia/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
 
 </div>
 
@@ -31,9 +35,9 @@ Por cerca de **4 anos**, criei e mantive o **Mostra Preço** — um projeto enxu
 
 ### 🚀 Projetos
 
-- **[TalentScan Pro](https://talentscanpro.com/)** — análise de currículo com IA alinhada à triagem: nota por dimensão, diagnóstico, plano de melhorias e versões otimizadas enviadas por e-mail.
-- **[Web Dev Tools](https://www.webdevtools.tech)** — plataforma com ferramentas para o dia a dia de desenvolvedores.
-- **[Update sem Where](https://updatesemwhere.com.br/)** — blog sobre carreira e tecnologia.
+- <a href="https://talentscanpro.com/" target="_blank" rel="noopener noreferrer"><strong>TalentScan Pro</strong></a> — análise de currículo com IA alinhada à triagem: nota por dimensão, diagnóstico, plano de melhorias e versões otimizadas enviadas por e-mail.
+- <a href="https://www.webdevtools.tech" target="_blank" rel="noopener noreferrer"><strong>Web Dev Tools</strong></a> — plataforma com ferramentas para o dia a dia de desenvolvedores.
+- <a href="https://updatesemwhere.com.br/" target="_blank" rel="noopener noreferrer"><strong>Update sem Where</strong></a> — blog sobre carreira e tecnologia.
 
 ---
 
@@ -74,11 +78,13 @@ Programei em **PHP** durante dois anos — foi minha primeira linguagem, então 
 
 ---
 
+<div align="center">
+
 ### 🏆 Certificações
 
-<table width="100%">
+<table align="center">
   <tr>
-    <td width="50%" align="center" valign="top">
+    <td width="400" align="center" valign="top">
       <br/>
       <img src="https://img.shields.io/badge/AWS_Certified_Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="AWS CP"/>
       <br/><br/>
@@ -86,7 +92,7 @@ Programei em **PHP** durante dois anos — foi minha primeira linguagem, então 
       <sub>Amazon Web Services · Emitida em Mai/2026</sub>
       <br/><br/>
     </td>
-    <td width="50%" align="center" valign="top">
+    <td width="400" align="center" valign="top">
       <br/>
       <img src="https://img.shields.io/badge/Introduction_to_Cybersecurity-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cybersecurity"/>
       <br/><br/>
@@ -96,17 +102,17 @@ Programei em **PHP** durante dois anos — foi minha primeira linguagem, então 
     </td>
   </tr>
   <tr>
-    <td width="50%" align="center" valign="top">
+    <td width="400" align="center" valign="top">
       <br/>
-      <img src="https://img.shields.io/badge/Scrum_Foundation_(SFPC)-009FDA?style=for-the-badge&logo=scrumalliance&logoColor=white" alt="SFPC"/>
+      <img src="https://img.shields.io/badge/Scrum_Foundation_SFPC-009FDA?style=for-the-badge&logo=scrumalliance&logoColor=white" alt="SFPC"/>
       <br/><br/>
       <strong>Scrum Foundation Professional Certificate</strong><br/>
       <sub>Certiprof · Jun/2020</sub>
       <br/><br/>
     </td>
-    <td width="50%" align="center" valign="top">
+    <td width="400" align="center" valign="top">
       <br/>
-      <img src="https://img.shields.io/badge/CCNA_Security_(CCNA_I)-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="CCNA"/>
+      <img src="https://img.shields.io/badge/CCNA_Security_CCNA_I-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="CCNA"/>
       <br/><br/>
       <strong>Cisco CCNA Security (CCNA I)</strong><br/>
       <sub>Cisco Networking Academy · Jun/2019</sub>
@@ -125,10 +131,12 @@ Programei em **PHP** durante dois anos — foi minha primeira linguagem, então 
   </tr>
 </table>
 
+</div>
+
 ---
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/maatheusgouveia/maatheusgouveia/output/github-contribution-grid-snake.svg)
+  <img width="100%" alt="Snake animation" src="https://raw.githubusercontent.com/maatheusgouveia/maatheusgouveia/output/github-contribution-grid-snake.svg"/>
 
 </div>
