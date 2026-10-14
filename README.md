@@ -1,3 +1,4 @@
+
 <div align="center">
 
 # 👋 Olá, eu sou o Matheus Gouveia
@@ -86,10 +87,28 @@ Programei em **PHP** durante dois anos — foi minha primeira linguagem, então 
   <tr>
     <td width="400" align="center" valign="top">
       <br/>
-      <img src="https://img.shields.io/badge/AWS_Certified_Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="AWS CP"/>
+      <img src="https://img.shields.io/badge/AWS_Certified_Developer_Associate-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="AWS Developer Associate"/>
+      <br/><br/>
+      <strong>AWS Certified Developer – Associate</strong><br/>
+      <sub>Amazon Web Services · Ago/2026</sub>
+      <br/><br/>
+    </td>
+    <td width="400" align="center" valign="top">
+      <br/>
+      <img src="https://img.shields.io/badge/AWS_Certified_AI_Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="AWS AI Practitioner"/>
+      <br/><br/>
+      <strong>AWS Certified AI Practitioner</strong><br/>
+      <sub>Amazon Web Services · Mai/2026</sub>
+      <br/><br/>
+    </td>
+  </tr>
+  <tr>
+    <td width="400" align="center" valign="top">
+      <br/>
+      <img src="https://img.shields.io/badge/AWS_Certified_Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="AWS Cloud Practitioner"/>
       <br/><br/>
       <strong>AWS Certified Cloud Practitioner</strong><br/>
-      <sub>Amazon Web Services · Emitida em Mai/2026</sub>
+      <sub>Amazon Web Services · Mai/2026</sub>
       <br/><br/>
     </td>
     <td width="400" align="center" valign="top">
